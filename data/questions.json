@@ -1,0 +1,953 @@
+[
+  {
+    "text": "El CENACE no realizará ajustes en caso de que exista algún error en la liquidación.",
+    "choices": ["Verdadero", "Falso"],
+    "answerIndex": 1
+  },
+  {
+    "text": "¿Cuál de las siguientes actividades es responsabilidad de la Comisión Reguladora de Energía?",
+    "choices": [
+      "Diseñar y conducir la política energética mexicana.",
+      "Establecer las condiciones generales de Transmisión y Distribución, así como de Suministro Eléctrico.",
+      "Planificar la expansión de la Red Nacional de Transmisión y de las Redes Generales de Distribución.",
+      "Operar el Sistema Eléctrico Nacional con eficiencia y confiabilidad."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "text": "Una oferta de importación de energía en el Mercado de Corto Plazo equivale a:",
+    "choices": [
+      "Una oferta de venta de energía.",
+      "Una oferta de servicios conexos.",
+      "Una oferta de reservas.",
+      "Una oferta de compra de energía."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "text": "La finalidad de los Estados de Cuenta Diario es:",
+    "choices": [
+      "Informe detallado de las transacciones realizadas por el participante del Mercado Eléctrico Mayorista.",
+      "Informar sobre las transacciones de los Contratos de Interconexión Legados",
+      "Informar sobre las transacciones bilaterales"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "text": "La suma de los Pasivos Conocidos y los Pasivos Potenciales Estimados del Participante el Mercado conforman:",
+    "choices": [
+      "El Monto Garantizado de Pago",
+      "El Margen Prudencial",
+      "La Responsabilidad Estimada Agregada (REA)",
+      "El Margen de Reducción"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "text": "Si en la oferta la clave de la central no coincide con la registrada en el Catálogo Maestro (base de datos), causará que la oferta sea:",
+    "choices": [
+      "No cargada en el portal.",
+      "Se acepte con restricciones en el sistema de ofertas.",
+      "Invalida.",
+      "Sea clasificada como la más barata."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "text": "¿Qué formatos de oferta no tienen un estatus de: No disponible, Económica y Operación obligada?",
+    "choices": [
+      "Formato de oferta de generación Fotovoltaica y Eólica.",
+      "Formato de oferta de generación Térmica e Hidráulica.",
+      "Formato de oferta de generación Renovable, No Programable y CIL.",
+      "Ninguna de las anteriores."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "text": "Considerando la Garantía de Cumplimiento Básica ¿cuál es el Monto Mínimo total de las Garantías de Cumplimiento en caso pretender ser Titular de DFT's?",
+    "choices": [
+      "Un millón de pesos",
+      "Cinco millones de pesos",
+      "Seis millones de pesos",
+      "Ninguna de las anteriores."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "text": "Disposiciones administrativas que contienen principios de diseño y operación del MEM.",
+    "choices": [
+      "Bases del Mercado Eléctrico",
+      "Ley de la Industria Eléctrica",
+      "Reglamento de la Ley de la Industria Eléctrica"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "text": "¿Cuál de las siguientes opciones es causa para que una oferta resulte inválida?",
+    "choices": [
+      "No se cuenta con reservas en la oferta.",
+      "La oferta tiene valor de potencia máxima igual a la potencia mínima.",
+      "La potencia mínima es cero.",
+      "El valor ofertado de la suma de los segmentos es mayor a la resta de la potencia máxima menos la potencia mínima."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "text": "¿En cuántos segmentos como máximo se puede representar la curva de costo incremental de una oferta térmica?",
+    "choices": ["20", "23", "11", "60"],
+    "answerIndex": 2
+  },
+  {
+    "text": "¿Cuál es el propósito de la validación de las ofertas?",
+    "choices": [
+      "Evitar el ingreso de información con deficiencias que harían imposible su utilización.",
+      "Poner a disposición toda la información de las ofertas.",
+      "Monitorear el comportamiento del Sistema Eléctrico Nacional."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "text": "¿Cuál es la relación que deben de guardar la Responsabilidad Estimada Agregada (REA) respecto al Monto Garantizado de Pago (MGP) para no estar en incumplimiento?",
+    "choices": ["MGP>REA", "REA<=MGP", "MGP<REA"],
+    "answerIndex": 0
+  },
+  {
+    "text": "¿Quiénes son los Participantes del Mercado?",
+    "choices": [
+      "Generadores, Suministradores, Comercializadores no Suministradores y Usuarios Calificados.",
+      "Transportistas y Distribuidores.",
+      "La Secretaría de Energía, la Comisión Reguladora de Energía y el Cenace.",
+      "Todos los anteriores."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "text": "Documento en el que se establecen las disposiciones que regulan la planeación y control operativo del Sistema Eléctrico Nacional (SEN)",
+    "choices": [
+      "Manuales de prácticas del mercado",
+      "Reglamento de la Ley de la Industria Eléctrica",
+      "Bases del Mercado Eléctrico"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "text": "Los siguientes roles pertenecen a:<br><br>- Control Operativo. Operar el Sistema eléctrico Nacional con eficiencia y confiabilidad.<br><br>- Mercado Eléctrico Mayorista. Mercado spot nodal de energía obligatorio, con contratos de cobertura y subastas para el servicio básico y certificados de energía limpia.<br><br>- Derechos financieros de transmisión Planeación. Planificar la expansión de la Red Nacional de Transmisión y de la Red General de Distribución.<br><br>- Acceso Abierto. Acceso abierto no discriminatorio a la Red para la interconexión de generadores y conexión de centros de carga, estableciendo sus requerimientos de infraestructura.",
+    "choices": [
+      "Comisión Reguladora de Energía",
+      "Centro Nacional de Control de Energía",
+      "Secretaria de Energía"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "text": "El artículo 80 del Reglamento de la Ley de la Industria Eléctrica establece que la operación del Mercado Eléctrico Mayorista se sujetará a las Reglas del Mercado, las cuales procurarán en todo momento la igualdad de condiciones para todos los Participantes del Mercado, y deberán prever, además de lo estipulado en la Ley, cuando menos, las garantías que los Participantes del Mercado deben presentar al CENACE y los límites que se impondrán al volumen de transacciones que podrán comprometer los Participantes del Mercado, tomando en cuenta su situación financiera y las garantías que presenten al CENACE.",
+    "choices": ["Verdadero", "Falso"],
+    "answerIndex": 0
+  },
+  {
+    "text": "Los Precios Marginales Locales (PML) del Mercado de Día en Adelanto (MDA) están conformados por:",
+    "choices": [
+      "Los Precios de los Costos Totales de Corto Plazo",
+      "Componente de energía, componente de pérdidas y componente de congestión",
+      "Los Precios de los Servicios Conexos y las Restricciones de Transmisión"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "text": "¿Qué sucede cuando el límite de despacho máximo, es menor que el mínimo?",
+    "choices": [
+      "La oferta se clasifica como invalida.",
+      "La oferta se clasifica como válida.",
+      "No pasa nada.",
+      "Ninguna de las anteriores."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "text": "Otorga al titular el derecho a cobrar o la obligación de pagar la diferencia de los Componentes de Congestión marginal de los Precio Marginal Local del Mercado de Día en Adelanto entre nodo de destino y de origen.",
+    "choices": [
+      "Derecho Financiero de Transmisión",
+      "Contrato Bilateral",
+      "Certificado de Energía Limpia"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "text": "¿Cuáles son las áreas que conforman el Sistema de Información del Mercado?",
+    "choices": [
+      "Área Exclusiva para Participantes del Mercado y Área Privada de la Comisión Reguladora de Energía.",
+      "Área Pública, Área Certificada y Área Segura.",
+      "Área Privada del CENACE y Área Publica."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "text": "Folio que le permitirá al participante identificar el concepto que se está liquidando.",
+    "choices": ["FUL", "FUF", "FUECD", "Ninguno de los anteriores."],
+    "answerIndex": 0
+  },
+  {
+    "text": "Número de Días de Exposición (DE) utilizados para la estimación de los Cargos Potenciales en el caso de Entidades Responsables de Carga:",
+    "choices": [
+      "5 días",
+      "7 días",
+      "10 días",
+      "17 días",
+      "Ninguna de las anteriores."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "text": "¿En qué ambiente de la sección \"Recepción de Ofertas del Área Certificada del SIM\", el participante debe realizar la carga de sus ofertas para participar en el MEM?",
+    "choices": [
+      "Ambiente de pruebas.",
+      "Ambiente de entrenamiento.",
+      "Ambiente de producción.",
+      "Ninguna de las anteriores."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "text": "Los Cargos Potenciales que se consideran para aplicar el Margen de Reducción son:",
+    "choices": ["CPMCEL + CPTDO", "CPSMLP + CPSDFT + CPDFT", "CPMCP + CPMBP"],
+    "answerIndex": 2
+  },
+  {
+    "text": "Los siguientes roles pertenecen a:<br><br>- Diseñar y conducir la política energética mexicana.<br><br>- Realizar la planeación del SEN.<br><br>- En coordinación con la CRE evaluar el desempeño del CENACE y del MEM.<br><br>- Monitorear el MEM durante el primer año de operación.<br><br>- Verificar el cumplimiento de las normas aplicables al MEM.<br><br>- Imponer sanciones.<br><br>- Interpretar para efectos administrativos la LIE de acuerdo a sus facultades.",
+    "choices": [
+      "Secretaria de Energía",
+      "Comisión Reguladora de Energía",
+      "Centro Nacional de Control de Energía"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "text": "¿Qué significan las siglas MDA?",
+    "choices": [
+      "Mercado de Día en Adelanto",
+      "Mercado Eléctrico Mayorista",
+      "Mercado de Tiempo Real"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "text": "Número de días posteriores al día de operación en el que serán emitidos los Estados de Cuenta Diarios.",
+    "choices": ["17", "7", "14", "21"],
+    "answerIndex": 1
+  },
+  {
+    "text": "¿Cuál es el periodo máximo para la presentación de la Garantía de Cumplimiento Básico posteriores a la firma del Contrato?",
+    "choices": [
+      "120 días hábiles.",
+      "100 días hábiles.",
+      "120 días naturales.",
+      "100 días naturales."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "text": "¿En qué documento se encuentra la información de liquidaciones, facturas a emitir y re-liquidaciones?",
+    "choices": ["Factura", "Estado de cuenta", "Manual de liquidaciones"],
+    "answerIndex": 1
+  },
+  {
+    "text": "Su finalidad es promover el desarrollo sustentable de la Industria Eléctrica y garantizar su operación continua, eficiente y segura",
+    "choices": [
+      "Reglamento de la Ley de la Industria Eléctrica",
+      "Bases del Mercado Eléctrico",
+      "Manuales de prácticas del mercado",
+      "Ley de la Industria Eléctrica"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "text": "Un Generador Exento, que no cuenta con permiso de Generación expedido por la Comisión Reguladora de Energía ¿Cómo puede vender su energía eléctrica y productos asociados en el Mercado Eléctrico Mayorista?",
+    "choices": [
+      "Firmando un contrato con el Cenace como Participante del Mercado.",
+      "A través del Generador de Intermediación.",
+      "A través de un Suministrador.",
+      "Ninguna de las anteriores."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "text": "¿Quiénes participan en el Mercado Eléctrico Mayorista sin representar activos físicos?",
+    "choices": [
+      "Los Comercializadores no Suministradores.",
+      "Los Usuarios Calificados Participantes del Mercado.",
+      "Los Generadores Exentos.",
+      "Cualquiera de las anteriores."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "text": "¿Cuántos segmentos de horas puede llegar a tener una oferta como máximo?",
+    "choices": ["23", "24", "25", "22"],
+    "answerIndex": 2
+  },
+  {
+    "text": "A través del formato HTML del Estado de Cuenta los Participantes podrán visualizar el detalle horario exacto de cada una da las operaciones efectuadas en el Mercado Eléctrico Mayorista.",
+    "choices": ["Verdadero", "Falso"],
+    "answerIndex": 1
+  },
+  {
+    "text": "La liquidación cero dentro del Mercado Eléctrico Mayorista se realiza...",
+    "choices": [
+      "49 días después del día de operación",
+      "14 días después del día de operación",
+      "7 días después del día de operación"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "text": "¿Cuántos segmentos de potencia incremental debe tener una oferta hidroeléctrica?",
+    "choices": ["23", "22", "60", "Ninguno."],
+    "answerIndex": 3
+  },
+  {
+    "text": "Se utilizará un sistema de doble liquidación para la energía y los servicios conexos incluidos en el mercado eléctrico mayorista, lo cual implica una liquidación del mercado del día en adelanto seguida por una liquidación para las diferencias con el mercado de tiempo real.",
+    "choices": ["Verdadero", "Falso"],
+    "answerIndex": 0
+  },
+  {
+    "text": "El Monto Garantizado de Pago de cada Participante del Mercado se conforma por:",
+    "choices": [
+      "El valor de la Garantía de Cumplimiento Básica otorgada por el Participante del Mercado.",
+      "El valor de los demás instrumentos de garantía utilizados por el Participante del Mercado",
+      "Las obligaciones que asuman los Participantes del Mercado frente al CENACE",
+      "A y B"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "text": "Es un tipo de Mercado incluido en el MEM.",
+    "choices": [
+      "Mercado de Bonos de Carbono",
+      "Mercado de Certificados de Energía Limpia",
+      "Mercado Minorista"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "text": "Son los tres posibles Estatus de la asignación de la oferta de una Unidad de Central Eléctrica:",
+    "choices": [
+      "Disponible, No Disponible y Económica",
+      "Despachable, No Despachable y No Disponible",
+      "No disponible, Económica; y Operación obligada",
+      "Todas de las anteriores"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "text": "Causas por las cuales el CENACE llevará a cabo Re-liquidaciones.",
+    "choices": [
+      "Ajuste de insumos utilizados para la liquidación.",
+      "Corrección de errores de cálculo.",
+      "Solución de Controversias.",
+      "Todas las anteriores."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "text": "Seleccione cuáles de los siguientes tipos de reservas pertenecen a la reserva de generación",
+    "choices": [
+      "Reserva rodante de 10 minutos y reserva de regulación secundaria.",
+      "Reserva continua y reserva mixta.",
+      "Reserva discontinua y reserva exenta.",
+      "Ninguna de las anteriores."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "text": "Las Reliquidaciones posibles son:",
+    "choices": [
+      "Inicial 10 días, intermedia 25 días y final 45 días naturales despues al Dia de Operación",
+      "Inicial 1 día, intermedia 15 días y final 30 días naturales despues al Dia de Operación",
+      "Inicial 49 días, intermedia 105 días y final 210 días naturales despues al Dia de Operación"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "text": "Los Derechos Financieros de Transmisión:",
+    "choices": [
+      "Otorgan el Derecho Físico para usar la Red de Transmisión",
+      "Otorgan el Derecho físico entre nodo destino y de origen",
+      "Otorgan el derecho a cobrar o la obligación de pagar la diferencia de los Componentes de Congestion marginal de los Precios Marginales Locales (PML) del Mercado de Día en Adelanto (MDA)"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "text": "¿Cuál es el Área del Sistema de Información de Mercado que contiene la siguiente información? Modelo de Planeación del Sistema Eléctrico Nacional, Modelo de Red, Topología de la red, Modelo Comercial y de Facturación y Reporte de limites operativos de transmisión MDA",
+    "choices": ["Área Pública", "Área Certificada", "Área Segura"],
+    "answerIndex": 2
+  },
+  {
+    "text": "En una oferta de compra de energía también se puede incluir la compra de:",
+    "choices": [
+      "Regulación secundaria.",
+      "Reserva No Rodante.",
+      "Regulación primaria.",
+      "Ninguna de las anteriores."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "text": "Con base a la información contenida en las Facturas se elaborarán los Estados de Cuenta Diarios.",
+    "choices": ["Verdadero", "Falso"],
+    "answerIndex": 1
+  },
+  {
+    "text": "Tipo de Garantía para la operación del MEM",
+    "choices": [
+      "Garantía de Compensación",
+      "Garantía de Calidad",
+      "Garantía de Cumplimiento"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "text": "Los siguientes roles pertenecen a:<br><br>- Regular y otorgar permisos de generación de electricidad<br><br>- Expedir el modelo de contrato de interconexión y conexión<br><br>- Expedir y aplicar la regulación tarifaria para la transmisión, distribución, operación del CENACE, servicios conexos fuera del MEM<br><br>- Vigilar el MEM<br><br>- Establecer las condiciones generales de transmisión, distribución y suminsitro para la participación en el MEM<br><br>- Imponer sanciones<br><br>- Interpretar para efectos administrativos la LIE de acuerdo a sus facultades",
+    "choices": [
+      "Centro Nacional de Control de Energía",
+      "Comisión Reguladora de Energía",
+      "Secretaria de Energía"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "text": "¿Qué es el Margen de Reducción?",
+    "choices": [
+      "El factor por comportamiento histórico ejemplar de ese PM respecto a sus pagos frente al CENACE, menos el factor de solidez financiera de ese PM.",
+      "La sumatoria del comportamiento histórico ejemplar de ese PM respecto a sus pagos frente al CENACE en un periodo de 12 meses, menos el factor de solidez financiera de ese PM.",
+      "El factor por comportamiento histórico ejemplar de ese PM respecto a sus pagos frente al CENACE, más el factor de solidez financiera de ese PM.",
+      "Ninguna de las anteriores."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "text": "¿En cuántos tipos de reserva de generación se dividen las ofertas térmicas?",
+    "choices": ["5", "3", "2", "4"],
+    "answerIndex": 0
+  },
+  {
+    "text": "¿Cuál es el número mínimo de escalones que se deberán ofertar para un generador térmico convencional?",
+    "choices": ["12", "9", "1", "6"],
+    "answerIndex": 2
+  },
+  {
+    "text": "Es el encargado de establecer a las Entidades Responsables de Carga (ERC) los requisitos para adquirir potencia",
+    "choices": ["La CRE", "La SENER", "El CENACE"],
+    "answerIndex": 0
+  },
+  {
+    "text": "Un Suministrador de Servicios Calificados, que cuenta con un permiso para realizar tal actividad expedido por la Comisión Reguladora de Energía ¿A quién puede representar en el Mercado Eléctrico Mayorista?",
+    "choices": [
+      "A los Usuarios de Suministro Básico.",
+      "A los Transportistas y Distribuidores.",
+      "A otro Suministrador.",
+      "A los Usuarios Calificados y a los Generadores Exentos."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "text": "¿Es participante del Mercado Eléctrico Mayorista?",
+    "choices": ["Usuario de servicio básico", "Transportista", "Generador"],
+    "answerIndex": 2
+  },
+  {
+    "text": "¿Cuáles son las etapas para el Registro y Acreditación de Participantes del Mercado?",
+    "choices": [
+      "Pre-Registro de Candidato a Participantes del Mercado, Registro de Candidato a Participante del Mercado, Suscripción de Contrato de Participante del Mercado, Acreditación de Participante del Mercado, Registro de Activos, Inicio de Operaciones del Participante de Mercado en el Mercado.",
+      "Generador, Transportista, Distribuidor, Suministrador y Comercializador, Usuario Final.",
+      "Envío y recepción de ofertas, Preparación y recopilación de datos, Cálculos de Mercado de un Día de Adelanto y Publicación de resultados."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "text": "Se presenta el ejemplo simplificado de un Estado de Cuenta:<br><br>Sección a Emitir por el Participante:<br>FUF: 20160511G700002P00 Total $ 1,000,00<br>FUL: 20160511G700002-A01010 - $500,00<br>FUL: 20160511G700002-A03010 - $250,00<br>FUL: 20160511G700002-A04010 - $250,00<br><br>Sección a Emitir por el CENACE:<br>FUF: 20160511G700002C00 Total $ 400,00<br>FUL: 20160511G700002-C50120 - $ 200,00<br>FUL: 20160511G700002-C51220 - $ 100,00<br>FUL: 20160511G700002-C54120 - $ 100,00<br><br>¿Por cuánto será el monto de la factura a emitir por el Participante del Mercado?",
+    "choices": ["$ 600,000", "$ 400,000", "$ 1,400,000", "$ 1,000,000"],
+    "answerIndex": 3
+  },
+  {
+    "text": "Cuando en una oferta, la fecha inicial es mayor que la fecha final; ¿Qué sucede cuándo subes la oferta?",
+    "choices": [
+      "Se clasifica como válida en el portal.",
+      "No marca nada",
+      "Se clasifica como no cargada en el portal",
+      "Ninguna de las anteriores."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "text": "Actividades que puede realizar el Generador de Intermediación:",
+    "choices": [
+      "Comprar Potencia para Usuarios Calificados",
+      "Vender y comprar Potencia para los Contratos de Interconexión Legados que representa",
+      "Vender Potencia de Generadores de ultimo recurso"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "text": "¿Cuántas bases de Mercado existen?",
+    "choices": ["18", "19", "9", "10"],
+    "answerIndex": 1
+  },
+  {
+    "text": "¿Cuál es el Monto de la Garantía de Cumplimiento Básica en caso pretender ser Titular de Derechos Financieros de Transmisión?",
+    "choices": [
+      "Cien mil pesos",
+      "Un millón + Cinco millones = Seis millones de pesos",
+      "Un millón doscientos mil pesos"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "text": "El Participante de Mercado G700 cuenta con 10 unidades Generadoras mismas que a su vez agrupó en 5 Cuentas de Orden. ¿Cuántos Estados de Cuenta Diarios recibirá este participante?",
+    "choices": ["10", "Ninguno.", "5", "1"],
+    "answerIndex": 2
+  },
+  {
+    "text": "¿En qué mercado se liquidan los Derechos financieros de transmisión (DFT's)?",
+    "choices": [
+      "Mercado de potencia",
+      "Mercado de día en adelanto (MDA)",
+      "Mercado de servicios regulados",
+      "Mercado de tiempo real (MTR)"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "text": "Folio que le permitirá al participante identificar cada una de las Facturas a Emitir.",
+    "choices": [
+      "Folio Único de Facturación (FUF)",
+      "Folio Único de Liquidación (FUL)",
+      "Folio Único de Estado de Cuenta Diario (FUECD)",
+      "Ninguno de los anteriores."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "text": "El participante de Mercado registra operaciones el día 15/06/2016. ¿Cuándo se Emitirá el Estado de Cuenta correspondiente?",
+    "choices": ["21/06/2016", "29/06/2016", "15/06/2016", "22/06/2016"],
+    "answerIndex": 3
+  },
+  {
+    "text": "¿Cuál es la clasificación completa de la información del Mercado Eléctrico Mayorista que se encuentra en el Sistema de Información de Mercado (SIM)?",
+    "choices": [
+      "Pública y Confidencial.",
+      "Pública y Reservada.",
+      "Pública, Confidencial y Reservada.",
+      "Confidencial y Reservada"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "text": "¿A partir de qué % se le alertará diariamente al Participante del Mercado (PM) sobre la relación que guarda el Monto Garantizado de Pago (MGP) respecto a su Responsabilidad Estimada Agregada (REA)?",
+    "choices": ["90", "95", "85", "80"],
+    "answerIndex": 0
+  },
+  {
+    "text": "Proceso en el cual se calculan para cada Día de Operación los Pagos y Cargos de las diversas entidades participantes en el Mercado Eléctrico Mayorista.",
+    "choices": ["Registro.", "Operación.", "Estimación REA.", "Liquidación."],
+    "answerIndex": 3
+  },
+  {
+    "text": "¿Cuáles son las Ofertas de Compra?",
+    "choices": [
+      "Energía, Exportación",
+      "Servicios Conexos, Importación",
+      "Energía, Servicios Conexos, Importación"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "text": "Documento emitido como resultado del proceso de liquidación, el cual será emitido 7 días posteriores a la fecha de operación:",
+    "choices": [
+      "Estado de cuenta",
+      "Garantía",
+      "Transacción bilateral",
+      "Factura"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "text": "Después de la etapa de Registro como Candidato a Participante del Mercado ante el Cenace ¿Puedo iniciar operaciones en el Mercado Eléctrico Mayorista?",
+    "choices": [
+      "No. Sólo falta suscribir el contrato de Participante del Mercado.",
+      "Si, inmediatamente puedes presentar ofertas de compra y venta de energía en el Mercado Eléctrico Mayorista.",
+      "No. Deberás firmar un contrato con la Secretaría de Energía.",
+      "No. Además deberás suscribir un contrato como Participante del Mercado y pasar una fase de Acreditación como Participante del Mercado y completar el Registro de Activos."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "text": "Sistema por el cual el Participante podrá consultar Estados de Cuenta y Facturas emitidas por el CENACE y publicar las Facturas emitidas por el propio.",
+    "choices": [
+      "Sistema de Información de Mercado (SIM).",
+      "Software de Programación Financiera.",
+      "Sistema Eléctrico Nacional.",
+      "Todas las anteriores."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "text": "A través del Software de Programación Financiera los Participantes podrán descargar los Estados de Cuenta y Facturas emitidas por el CENACE y publicar las Facturas emitidas por el propio.",
+    "choices": [
+      "Verdadero",
+      "Falso"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "text": "El Generador de Intermediación representa a:",
+    "choices": [
+      "Generadores de ultimo recurso",
+      "Productores Externos Legados",
+      "Centrales y Centros de Carga Incluidos en los Contratos de Interconexión Legados"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "text": "El participante presenta una inconformidad sobre un monto reflejado en la liquidación original 20 días después de la fecha de operación. ¿Cuándo se re liquidará?",
+    "choices": [
+      "49 días posteriores al día de operación",
+      "7 días posteriores al día que presentó su inconformidad",
+      "49 días posteriores al día que presentó su inconformidad",
+      "El día que presenta su inconformidad"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "text": "¿Cuáles son los tipos de Garantías que el CENACE aceptará a los Participantes de Mercado?",
+    "choices": [
+      "Fondos depositados, Carta de crédito y/o instrumentos financieros de bajo riesgo.",
+      "Moody's Investors Service Inc. (Moody's) y Standard & Poor's Ratings Services (S&P).",
+      "Solamente se aceptaran Cartas de Crédito",
+      "Ninguna de las Anteriores."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "text": "¿De las siguientes opciones, cuál no es un tipo de oferta?",
+    "choices": [
+      "Oferta Hidroeléctrica.",
+      "Oferta Térmica.",
+      "Oferta No Renovable.",
+      "Oferta de Importación."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "text": "¿Cuál es el nivel mínimo que debe mantener el Monto Garantizado de Pago (MGP) de los Participantes del Mercado (PM)?",
+    "choices": [
+      "Un nivel equivalente al menor entre el valor mínimo de la Garantía de Cumplimiento Básica y la REA.",
+      "Un nivel no equivalente al mayor entre el valor mínimo de la Garantía de Cumplimiento y la REA.",
+      "Un nivel equivalente al mayor entre el valor mínimo de la Garantía de Cumplimiento Básica y la REA."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "text": "¿Cuál es la relación del Cenace con las instituciones que forman parte del sector eléctrico?",
+    "choices": [
+      "El Cenace únicamente atiende los lineamientos emitidos por la Comisión Reguladora de Energía como autoridad reguladora.",
+      "Ninguna. El Cenace como operador independiente del mercado no se coordina con la Secretaría de Energía ni con la Comisión Reguladora de Energía.",
+      "El Cenace únicamente atiende los lineamientos emitidos por la Secretaría de Energía como cabeza de sector.",
+      "El Cenace se coordina con la Secretaría de Energía y con la Comisión Reguladora de Energía como autoridades del sector, atendiendo lineamientos y criterios emitidos por estas instituciones."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "text": "Fecha con la que se integra el FUECD (Folio Único de Estado de Cuenta Diario)",
+    "choices": [
+      "Fecha de operación",
+      "Fecha de emisión",
+      "Fecha de pago",
+      "Ninguna de las anteriores"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "text": "¿Cuál de las siguientes reservas no pertenece al Mercado Eléctrico Mayorista (MEM)?",
+    "choices": [
+      "Reserva no rodante de 10 minutos.",
+      "Reserva Rodante de emergencia.",
+      "Reserva de regulación y reserva rodante de 10 minutos.",
+      "Reserva rodante suplementaria y reserva no rodante suplementaria."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "text": "¿Cuántos días naturales después de la fecha de operación se efectúa invariablemente la reliquidación 2?",
+    "choices": ["210 días", "49 días", "105 días", "7 días"],
+    "answerIndex": 2
+  },
+  {
+    "text": "Cuando una oferta que se carga en el portal del participante resulta invalida ¿Qué se debe hacer?",
+    "choices": [
+      "Ver el mensaje de validación.",
+      "Llamar a mi supervisor.",
+      "Detener el Mercado Eléctrico."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "text": "Serán emitidos por cada Cuenta de Orden que haya registrado el participante de Mercado conforme a lo establecido en el Manual de Registro y Acreditación.",
+    "choices": [
+      "Facturas del CENACE.",
+      "Facturas de los participantes del Mercado.",
+      "Estados de Cuenta."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "text": "¿Cómo hacen los Transportistas y Distribuidores para formalizar su relación con el Cenace?",
+    "choices": [
+      "No necesitan formalizar la relación con el Cenace.",
+      "Únicamente acreditan ante el Cenace la firma de los contratos de Interconexión y Conexión, según corresponda.",
+      "Firman contratos con el Cenace como Participantes del Mercado.",
+      "Firman convenios con el Cenace para efectos de facturación y de coordinación en la operación de la Red Nacional de Transmisión y las Redes Generales de Distribución."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "text": "Cuando la Responsabilidad Estimada Agregada sea mayor a su Monto Garantizado de Pago de un Participante de Mercado, el CENACE procederá a:",
+    "choices": [
+      "Alertar al Participante del Mercado (PM) de forma diaria.",
+      "Notificar al Participante del Mercado (PM).",
+      "Suspender las Actividades del Participante del Mercado (PM).",
+      "Nada."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "text": "¿Cómo se Calculan los Pasivos Conocidos?",
+    "choices": [
+      "Obligaciones de Pago del Participante del Mercado menos las Obligaciones de Pago del CENACE.",
+      "Pasivos Conocidos más los Pasivos Potenciales Estimados.",
+      "Pasivos Conocidos menos los Pasivos Potenciales Estimados.",
+      "Obligaciones de Pago del Participante del Mercado mas las Obligaciones de Pago del CENACE.",
+      "Ninguna de las anteriores"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "text": "¿Cuáles son los tipos de mercado que se incluyen en el Mercado Eléctrico Mayorista?",
+    "choices": [
+      "Mercado de Energía, Servicios Conexos, Certificados de Energías Limpias y Potencia",
+      "Mercado de Energía, Servicios Conexos, Certificados de Energías Limpias, Potencia y Derechos Financieros de Transmisión",
+      "Mercado de Energía y Servicios Conexos",
+      "Mercado de Potencia y Certificados de Energías Limpias"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "text": "¿Cuál es la secuencia en que ocurren los procesos del Mercado de Corto Plazo?",
+    "choices": [
+      "Asignación de Unidades de Central Eléctrica de Horizonte Extendido, Mercado del Día en Adelanto; Asignación de Unidades de Central Eléctrica para Confiabilidad; Mercado de Tiempo Real; Cálculo de Liquidaciones, Estados de Cuenta, Facturación y Pagos.",
+      "Asignación de Unidades de Central Eléctrica para Confiabilidad; Cálculo de Liquidaciones, Estados de Cuenta, Facturación y Pagos.",
+      "Asignación de Unidades de Central Eléctrica para Confiabilidad; Mercado del Día en Adelanto; Estados de Cuenta, Facturación y Pagos.",
+      "Mercado del Día en Adelanto; Mercado de Tiempo Real; Cálculo de Liquidaciones, Estados de Cuenta, Facturación y Pagos."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "text": "Extensión del documento (archivo) emitido por el CENACE el cual contendrá el detalle horario exacto de cada una de las operaciones del Participante del Mercado y con el cual podrá replicar los cálculos expresados en el Manual de Liquidaciones.",
+    "choices": ["PDF", "XML", "HTML", "Ninguno de los anteriores."],
+    "answerIndex": 1
+  },
+  {
+    "text": "¿Qué documentos se originarán tras las Reliquidaciones?",
+    "choices": [
+      "Notas de Crédito y Débito",
+      "Facturas",
+      "Garantías",
+      "Ninguno de los anteriores."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "text": "Los estados de cuenta tienen como finalidad...",
+    "choices": [
+      "Evitar el ingreso de información con deficiencias que harían imposible su utilización.",
+      "Poner a disposición toda la información de las ofertas.",
+      "Que los participantes del Mercado reciban información sobre sus actividades de compra y venta de todos los productos contemplados en el Mercado Eléctrico Mayorista y que se hayan liquidado por cada día de operación."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "text": "Es la garantía que se emite al CENACE como requisito del proceso de registro del participante de mercado",
+    "choices": [
+      "Garantía de Cumplimiento Básica",
+      "Garantía de seriedad",
+      "Garantía de suficiencia de ingresos"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "text": "Suponga el siguiente escenario: El participante presenta una liquidación original en el folio B0101 por MXN $1.5m a favor del mismo. Durante el proceso de reliquidación esta cantidad es actualizada y corresponde a un monto de MXN $1.7m. ¿Cuál de las siguientes opciones es la correcta?",
+    "choices": [
+      "CENACE emitirá una nota de crédito por MXN $200,000",
+      "El participante emitirá una nota de crédito por MXN $200,000",
+      "CENACE emitirá una nota de débito por MXN $200,000",
+      "El participante emitirá una nota de débito por MXN $200,000"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "text": "El CENACE cuenta con las siguientes responsabilidades dentro del Mercado Eléctrico Mayorista:",
+    "choices": [
+      "El control operativo del Sistema Eléctrico Nacional, así como la operación del Mercado Eléctrico Mayorista",
+      "Representar a las Unidades de Central Eléctrica y Centros de Carga incluidos en los Contratos de Interconexión Legados",
+      "Responsable de las Redes Generales de Distribución y de proporcionar el servicio de distribución."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "text": "Número de Días de Exposición (DE) utilizados para la estimación de los Cargos Potenciales en el caso de Generadores.",
+    "choices": [
+      "5 días",
+      "7 días",
+      "10 días",
+      "17 días",
+      "Ninguna de las anteriores."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "text": "Si alguna oferta de una Unidad de Central Eléctrica es invalida, y se cumple el horario tope (10:00 hrs) para la recepción de ofertas:",
+    "choices": [
+      "Se toma la oferta aunque sea invalida",
+      "No se toma en cuenta ninguna oferta",
+      "Se toma en cuenta la ultima Oferta Valida"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "text": "¿Cuáles son las dos evaluaciones que se realizan a las ofertas térmicas?",
+    "choices": [
+      "Evaluación técnica y económica.",
+      "Evaluación económica y de energía.",
+      "Evaluación práctica y rápida.",
+      "Evaluación rápida y técnica."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "text": "Cuando la Responsabilidad Estimada Agregada sea igual o superior al __% de su Monto Garantizado de Pago, el CENACE comunicará diariamente esta situación a los Participantes del Mercado. Indique el porcentaje",
+    "choices": ["95", "85", "90", "80 "],
+    "answerIndex": 2
+  },
+  {
+    "text": "El CENACE emitirá un Estado de Cuenta Diario por cada cuenta de orden registrada por el Participante.",
+    "choices": ["Verdadero", "Falso"],
+    "answerIndex": 0
+  },
+  {
+    "text": "Periodo en el que se llevará a cabo la primer Re-liquidación:",
+    "choices": [
+      "49 días posteriores al día de operación.",
+      "14 días posteriores al día de operación.",
+      "105 días posteriores al día de operación.",
+      "7 días posteriores al día de operación."
+    ],
+    "answerIndex": 0
+  },
+  {
+    "text": "¿Cuáles son las Ofertas de Venta?",
+    "choices": [
+      "Servicios Conexos, Importación.",
+      "Energía, Servicios Conexos, Importación.",
+      "Energía, Exportación. "
+    ],
+    "answerIndex": 1
+  },
+  {
+    "text": "Selecciona cuáles son los sistemas considerados en los formatos de ofertas.",
+    "choices": ["GEN, CEN, OCC.", "Ninguno.", "NES, NTE.", "SIN, BCA, BCS."],
+    "answerIndex": 3
+  },
+  {
+    "text": "¿Cuales serían los cargos por transmisión para un Participante de Mercado para cierto día, si tiene un consumo promedio diario de 140 MWh?.  Para el nivel de tensión del Participante de Mercado se tiene una tarifa equivalente a 0.1424 pesos por cada kWh transportado.",
+    "choices": [
+      "23,125.76 pesos",
+      "19,936 pesos",
+      "5,000 pesos",
+      "Ninguna de las anteriores."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "text": "¿Quiénes podrán acceder a las áreas segura y certificada del Sistema de Información de Mercado (SIM)?",
+    "choices": [
+      "Sólo los integrantes de la industria.",
+      "El público en general.",
+      "Sólo las Autoridades.",
+      "Los Integrantes de la industria y las Autoridades."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "text": "¿Cuáles son los estudios que tienen que realizarse para firmar un contrato de conexión o interconexión?",
+    "choices": [
+      "Estudios indicativos.",
+      "Estudios de impacto.",
+      "Estudio de instalaciones.",
+      "Todos los anteriores."
+    ],
+    "answerIndex": 3
+  },
+  {
+    "text": "¿Cuál de las siguientes opciones causa invalidez en una oferta renovable?",
+    "choices": [
+      "La oferta no se necesita.",
+      "En una o varias horas se excede el límite máximo de potencia de la unidad generadora.",
+      "Ya existe una oferta válida para esa unidad generadora en el mismo día.",
+      "Han cambiado las convenciones para la potencia ofertada."
+    ],
+    "answerIndex": 1
+  },
+  {
+    "text": "Desarrolla con detalle cada base, establecen procedimientos, reglas, instrucciones, principios de cálculo, directrices y ejemplos a seguir para la administración, operación y planeación del MEM",
+    "choices": [
+      "Manuales de prácticas del mercado",
+      "Ley de la Industria Eléctrica",
+      "Reglamento de la Ley de la Industria Eléctrica"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "text": "¿Cuál de las siguientes actividades es responsabilidad de la Secretaría de Energía?",
+    "choices": [
+      "Establecer las condiciones generales de Transmisión y Distribución, así como de Suministro Eléctrico.",
+      "Planificar la expansión de la Red Nacional de Transmisión y de las Redes Generales de Distribución.",
+      "Diseñar y conducir la política energética mexicana.",
+      "Expedir los modelos de contratos de interconexión y conexión."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "text": "¿Qué es lo que se oferta en una oferta hidráulica?",
+    "choices": [
+      "Energía embotellada y reserva operativa.",
+      "Energía disponible y costo de oportunidad.",
+      "Disponibilidad de las unidades (límites de despacho) y servicios conexos.",
+      "Capacidad media del generador y reserva fría."
+    ],
+    "answerIndex": 2
+  },
+  {
+    "text": "Los Participantes deberán emitir sus facturas a más tardar el miércoles siguiente a la semana de emisión.",
+    "choices": ["Verdadero", "Falso"],
+    "answerIndex": 0
+  },
+  {
+    "text": "¿Cómo deben ser los valores de los escalones de una oferta térmica en la sección incremental?",
+    "choices": [
+      "Decrecientes en potencia y en costo.",
+      "Escalones diferentes en potencia y decrecientes en costo.",
+      "Decrecientes en costo.",
+      "Escalones incrementales en costo."
+    ],
+    "answerIndex": 3
+  }
+]
