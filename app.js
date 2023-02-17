@@ -20,7 +20,7 @@ function showScore(correctAnswers, numberQuestions) {
   <h2>Aciertos: ${correctAnswers}/${numberQuestions}</h2>
   <h2>Calificación: ${((correctAnswers / numberQuestions) * 100).toFixed(1)}</h2>
   <h2>Calificación mínima aprobatoria: 85.0</h2>
-  <button class="button" onclick="location.href='/'">Reintentar</button>`;
+  <button class="button" onclick="window.location.reload()">Reintentar</button>`;
   element.innerHTML = quizEndHTML;
 }
 
